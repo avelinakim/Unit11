@@ -1,0 +1,1 @@
+Node.js is a platform. It is open source and cross platform, so it is open to the community and can be run on many different operating systems. It is related to JavaScript because it is a run-time environment JavaScript as well as a JavaScript Library. It is very fast, single threaded, and is organized with modules.
